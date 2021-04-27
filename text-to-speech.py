@@ -14,3 +14,6 @@ a = input("enter the text :")
 # tts using espeak
 c = 'espeak -ven+f3 -k6 -s150 --punct="<characters>" "%s" 3>>/dev/null' % a 
 execute_unix(c)
+#trying to google tts using termux........
+#just try 
+#by shaheerez
